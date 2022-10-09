@@ -1,4 +1,4 @@
-This is a python script that uses Open Weather maps and Tweepy to tweet the 
+This is a python script that uses Open Weather Maps and Tweepy to tweet the 
 weather once per hour. To use this script you will need a twitter developer 
 account and an Open Weather Maps account. With the current configuration this 
 will only work for locations in the US because OWM only supports zipcodes in 
